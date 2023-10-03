@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>IdentityVerification__c</fullName>
+        <externalId>false</externalId>
+        <label>Identity Verification</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>AddressVerification__c</fullName>
+        <externalId>false</externalId>
+        <label>Address Verification</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>AnnualIncome__c</fullName>
+        <externalId>false</externalId>
+        <label>Annual Income</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Number</type>
+    </fields>
+    <fields>
+        <fullName>CreditScore__c</fullName>
+        <externalId>false</externalId>
+        <label>Credit Score</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Number</type>
+    </fields>
+    <fields>
+        <fullName>DisbursedAmount__c</fullName>
+        <externalId>false</externalId>
+        <label>Disbursed Amount</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Number</type>
+    </fields>
+    <fields>
+        <fullName>VehicleAssessmentValue__c</fullName>
+        <externalId>false</externalId>
+        <label>Vehicle Assessment Value</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Number</type>
+    </fields>
+    <fields>
+        <fullName>PaymentApproval__c</fullName>
+        <externalId>false</externalId>
+        <label>Payment Approval</label>
+        <required>true</required>
+        <trackHistory>true</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+</CustomObject>
